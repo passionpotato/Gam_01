@@ -18,7 +18,7 @@ This is a simple web application that generates random lottery numbers. Users ca
 *   **Number Generation:** Generates 6 unique random numbers between 1 and 45.
 *   **Number Display:** Displays the generated numbers in a clear and visually appealing way.
 *   **Generate Button:** A button to trigger the generation of new numbers.
-*   **History:** A list of previously generated number sets.
+*   **Ad Section & History:** A list of previously generated number sets.
 *   **Theme Toggle:** Switch between dark and light (white) modes to customize the visual appearance.
 
 ## Current Plan
